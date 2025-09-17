@@ -35,5 +35,6 @@ Most Used Payment Method  Cash on Delivery(44%)
 - Data: [Contains the sample dataset](https://github.com/Anisa-Muneer/Super-Store-Sales-Dashboard/blob/main/SuperStore_Sales_Dataset.csv)
 - Dashboard: Power BI file(.pbix) of the project.
 - Images: Contains screenshots of the dashboard for easy preview.
-- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ac8f2c0-b10b-46c5-970c-7c5bd743187e" />
+![Uploading image.png…]()
+
 
